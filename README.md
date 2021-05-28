@@ -2,9 +2,9 @@
 
 <b>An Analytical Tool to Study the Barcoding Gap</b>
 
-MindTheGap is a simple tool in java to study the barcode gap (Hebert et al., 2003; Hebert et al., 2004; Meyer and Paulay, 2005). The idea behind this tool is to target the gap itself. Instead of studying the distribution of the between-individuals distances in the dataset, MindTheGap finds the first gap based on a user-provided minimum length and returns the distribution of that gap on bins of a user-provided size.
+MindTheGap is a simple tool in java to study the barcode gap (Hebert et al., 2003; Hebert et al., 2004; Meyer and Paulay, 2005). The idea behind this tool is to target the gap itself. Instead of studying the distribution of the between-individuals distances in the dataset, MindTheGap finds the first gap, for each individual's distances, based on a user-provided minimum length, and returns the distribution of that gap on bins of a user-provided size.
 
-It has been tested only in a Windows environment (XP and 7), but it should work independently of the operational system.
+It has been tested only in a Windows environment (XP and 7), but it should work independently of the operational system. The zip file contains the java files. Unzip to a folder, and just launch the software! This was a first version - it was not pushed beyond this state since the information that provided was not very helpful in our research. But, who knows, maybe somebody will find it usefuL!
 
 <b>How it Works</b>
 
