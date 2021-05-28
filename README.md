@@ -6,6 +6,8 @@ MindTheGap is a simple tool in java to study the barcode gap (Hebert et al., 200
 
 It has been tested only in a Windows environment (XP and 7), but it should work independently of the operational system. The zip file contains the java files. Unzip to a folder, and just launch the software! This was a first version - it was not pushed beyond this state since the information that provided was not very helpful in our research. But, who knows, maybe somebody will find it usefuL!
 
+Developed by Ishtar Blanco-Bercial and Leocadio Blanco-Bercial. Please cite this repository if you use it!
+
 <b>How it Works</b>
 
 The infile is a comma-delimited matrix of genetic (or any other kind of) distances like the one you can easily obtain from MEGA (Tamura et al., 2011) for example. Once you open the file, the number of individuals and comparisons should be indicated. The tool removes missing (any non-numeric) data from the analysis. Once you select the starting point of analysis (you may prefer to start analyzing above a certain threshold if your coverage of the diversity is low to avoid false positives), the minimum size of the gap to be considered and the bin size.
