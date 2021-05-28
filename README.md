@@ -28,7 +28,10 @@ This tool is provided “as is”, for use in Research and Education. This progr
 
 <b>References</b>
 
-Hebert, P. D., Cywinska, A., Ball, S. L. and Dewaard, J. R. (2003) Biological identifications through DNA barcodes. Proc. R. Soc. B: Biol. Sci., 270, 313 - 321.</n>
-Hebert, P. D., Stoeckle, M. Y., Zemlak, T. S. and Francis, C. M. (2004) Identification of birds through DNA barcodes. PLoS Biol., 2, E312.</n>
-Meyer, C. P. and Paulay, G. (2005) DNA Barcoding: error rates based on comprehensive sampling. PLoS Biol., 3, e422.</n>
+Hebert, P. D., Cywinska, A., Ball, S. L. and Dewaard, J. R. (2003) Biological identifications through DNA barcodes. Proc. R. Soc. B: Biol. Sci., 270, 313 - 321.
+
+Hebert, P. D., Stoeckle, M. Y., Zemlak, T. S. and Francis, C. M. (2004) Identification of birds through DNA barcodes. PLoS Biol., 2, E312.
+
+Meyer, C. P. and Paulay, G. (2005) DNA Barcoding: error rates based on comprehensive sampling. PLoS Biol., 3, e422.
+
 Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M., Kumar, S., 2011. MEGA5: Molecular Evolutionary Genetics Analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods. Mol. Biol. Evol. 28, 2731-2739.
